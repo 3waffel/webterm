@@ -1,0 +1,10 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/fira_code.min.css");
+
+#root {
+  font-family: "Fira Code";
+  width: fit-content;
+  max-width: 70%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}

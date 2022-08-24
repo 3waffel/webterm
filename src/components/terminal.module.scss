@@ -1,0 +1,10 @@
+.Terminal {
+  position: relative;
+  border: 0.1em solid gray;
+}
+
+button {
+  margin: 0.4em;
+}
+
+@import url("https://unpkg.com/xterm@4.13.0/css/xterm.css");
